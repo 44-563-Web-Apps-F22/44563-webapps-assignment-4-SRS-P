@@ -53,24 +53,3 @@ th{
 tr:nth-child(even){
     background-color: rgb(207, 154, 92);
 }
-ul.navbar-horizontal{
-    list-style-type: none;
-    margin: 1px;
-    padding: 2px;
-}
-ul.navbar-horizontal li{
-    float: left;
-    color: rgb(113, 159, 63);
-    background-color: rgba(98, 25, 165, 0.918);
-}
-ul.navbar-horizontal a{
-    display: block;
-    padding: 3px;
-}
-ul.navbar-horizontal a:hover{
-    background-color: rgb(107, 81, 49);
-    color: rgb(245, 245, 245);
-}
-.icon{
-    float: right;
-}
